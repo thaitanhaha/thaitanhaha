@@ -24,7 +24,6 @@
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=c-sharp)
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
 ![Prolog](https://img.shields.io/badge/-Prolog-000?&logo=Prolog)
-
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
@@ -33,7 +32,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
@@ -48,11 +46,6 @@
 
 ---
 
-### 🌐 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/nguyen-thai-t-424408130/)
-[![Email](https://img.shields.io/badge/-Email-000?logo=gmail&logoColor=white)](mailto:nguyenthaitan02@example.com)
-[![Facebook](https://img.shields.io/badge/-Facebook-000?logo=Facebook&logoColor=1877F2)](https://www.facebook.com/nguyenthaitan123)
 
 
 
